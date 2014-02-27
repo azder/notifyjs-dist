@@ -1,9 +1,16 @@
 Notify.js Distributables
 =========================
 
-Just the distributable files of:
+Started as just the distributable files of:
 
 > A simple, yet fully customizable notification library
+
+**but now with some changes (since it IS a fork needed for specific purpose).**
+
+Following is the original copyright notice.
+
+
+--------------------------------------------------------------
 
 
 See demos and full documentation at:
